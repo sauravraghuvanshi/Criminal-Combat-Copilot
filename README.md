@@ -16,6 +16,8 @@ Crime is a pressing issue that affects communities worldwide, and this project a
 
 **Results and Conclusions:** The project's findings and conclusions are drawn based on the data analysis and model testing. Key factors that significantly contribute to crime rates, such as population density, urbanization, and economic indicators, are identified. These insights can be instrumental for law enforcement agencies and policymakers in devising crime prevention strategies.
 
+### System Flow:
+
 ### Project Impact: 
  
 "Criminal Combat Copilot" has the potential to make a substantial impact on crime prevention and criminology. The mathematical and statistical models developed offer actionable insights that can help authorities make informed decisions to effectively reduce crime rates. By understanding the correlations and underlying factors driving crime, this project contributes to the creation of safer and more secure communities.
