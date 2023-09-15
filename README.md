@@ -16,6 +16,8 @@ Crime is a pressing issue that affects communities worldwide, and this project a
 
 **Results and Conclusions:** The project's findings and conclusions are drawn based on the data analysis and model testing. Key factors that significantly contribute to crime rates, such as population density, urbanization, and economic indicators, are identified. These insights can be instrumental for law enforcement agencies and policymakers in devising crime prevention strategies.
 
+![Workflow Diagram](Image/image1.png "Workflow diagram")
+
 ### System Flow:
 
 ### Project Impact: 
